@@ -1,2 +1,2 @@
-# rpi_python_tools
-Useful tools for Raspberry Pis, written in Python. 
+# random_rpi_tools
+Random useful tools for Raspberry Pis.
